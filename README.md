@@ -25,46 +25,5 @@
 
 ---
 
-## 📊 Linguagens mais usadas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak (consistência)
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Snake (minhoquinha dos commits)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" />
-</p>
-
----
-
-## 📫 Contato
-<p align="center">
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/SEU-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ Obrigado por visitar meu perfil ✨
-</p>
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.shion.dev/api?username=VictorJer&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://streak-stats.demolab.com/?user=VictorJer&theme=aura&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VictorJer&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact) --- [![](https://komarev.com/ghpvc/?username=VictorJer&icon=0&color=0)](https://visitcount.itsvg.in)
