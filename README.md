@@ -11,13 +11,6 @@
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Estudante de Sistemas de Informação  
-- 💡 Interesse em programação e Machine Learning  
-- 🎯 Objetivo: conseguir estágio e crescer na área  
-
----
-
 ## 🚀 Tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,python" />
