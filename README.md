@@ -16,7 +16,7 @@
 
 ## 🚀 Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,python" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,angular" />
 </p>
 
 ---
